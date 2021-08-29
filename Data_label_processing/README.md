@@ -1,4 +1,4 @@
-## Data  
+## Data and Labels 
 
 Medical Information Mart for Intensive Care (MIMIC) is one of the most extensive publicly available medical databases. It contains de-identified health records of 49,785 adult patient admissions and 7,870 neonates admissions in critical care units at the Beth Israel Deaconess Medical Center between 2001 and 2012. [MIMIC-III Clinical Database](https://physionet.org/works/MIMICIIIClinicalDatabase/access.shtml)
 
