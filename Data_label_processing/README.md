@@ -11,7 +11,9 @@ The electronic Intensive Care Unit (eICU) is a database formed from the Philips 
 |ICD-9 Level 3 | MIMIC-III | 923 | 52,722   |  eICU  | 316 | 154,808   | 
 |Cardiovascular | MIMIC-III | 30 | 28,154   |  eICU | 15 | 53,477 | 
 |COVID-19 | MIMIC-III | 42|35,458   |  eICU  | 25 | 34,387 |
-|Fungal or bacterial | MIMIC-III | 73 | 30,814   |  eICU | 42|54,193|        
+|Fungal or bacterial | MIMIC-III | 73 | 30,814   |  eICU | 42|54,193|     
+
+Sample codes are provided for MIMIC III data.
 
  
 
