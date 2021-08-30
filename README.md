@@ -8,7 +8,9 @@ This repositary contains code used for following the PhD thesis and publications
 4. Yogarajan, V., Montiel, J., Smith, T., & Pfahringer, B. (2020). Seeing The Whole Patient: Using Multi-Label Medical Text Classification Techniques to Enhance Predictions of Medical Codes. [arXiv preprint arXiv:2004.00430](https://arxiv.org/abs/2004.00430). 
 5.Yogarajan, V., Montiel, J., Smith, T., & Pfahringer, B. (2021). Concatenated BioMed-Transformers for Multi-label Classification of Medical Text. (under submission)
 6. Yogarajan, V., Montiel, J., Smith, T., & Pfahringer, B. (2021). Predicting COVID-19 Patient Shielding: A Comprehensive Study. (under submission).
- 
+
+# Tutorials
+1. [Binary classification using GRU and pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Binary_classification/Binary_classification_GRU.ipynb)
 
 ## Data and Labels 
 
