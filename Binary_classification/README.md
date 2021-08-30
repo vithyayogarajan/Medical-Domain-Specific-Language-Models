@@ -5,8 +5,9 @@
 ## Flow chart of using word embeddings for predictions  
 
 
-<p style='color:blue'>Tutorial: Binary classification with GRU and pre-trained embeddings</p>    
+<p style='color:green'>Tutorial: Binary classification with GRU and pre-trained embeddings</p>    
 
+<h3 style="color:#ff0000">Danger</h3>
  
 
 
