@@ -1,3 +1,5 @@
+### Various options for training fastText embeddings where parameter choices are varied.
+
 ./fasttext cbow -input health-related-text-input.txt -output T50 -dim 50 -ws 5 -neg 10 -minn 5 -maxn 5; # option I CBOW
 
 ./fasttext cbow -input health-related-text-input.txt -output TREC3ws50 -dim 50 -ws 3 -neg 10 -minn 5 -maxn 5;  # option II CBOW
