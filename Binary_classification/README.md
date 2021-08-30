@@ -7,7 +7,7 @@
 ![wordembedding](https://user-images.githubusercontent.com/60803118/131305724-522b4c52-363e-4ae6-bfa8-11875963b5a1.png)
 
 
-***Tutorial: Binary classification with GRU and pre-trained embeddings***    
+
 
  
 
