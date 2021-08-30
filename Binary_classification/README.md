@@ -6,7 +6,16 @@
 ## Flow chart of using word embeddings for predictions  
 ![wordembedding](https://user-images.githubusercontent.com/60803118/131305724-522b4c52-363e-4ae6-bfa8-11875963b5a1.png)
 
+## Transformers
+![bert](https://user-images.githubusercontent.com/60803118/131306468-1be56b09-286a-49f7-8bbe-d88993149ce9.png)
 
+Models used include:[BERT-base](https://github.com/google-research/bert),[Clinical BERT](https://github.com/EmilyAlsentzer/clinicalBERT),[BioMed-RoBERTa](https://huggingface.co/allenai/biomed_roberta_base),[PubMedBERT](https://microsoft.github.io/BLURB/models.html),[MeDAL-Electra](https://github.com/BruceWen120/medal),[Longformer](https://github.com/allenai/longformer) and [TransformerXL](https://github.com/kimiyoung/transformer-xl)
+
+Transformer implementations are based on the open-source PyTorch-transformer repositories [Huggingface](https://github.com/huggingface/transformers) and [Simple Transformers](https://simpletransformers.ai/). 
+
+Neural network models presented are implemented using [PyTorch](https://github.com/pytorch/pytorch) and [Keras/Tensorflow](https://www.tensorflow.org). 
+
+Evaluations were done using [sklearn metrics](https://scikit-learn.org/stable/modules/classes.html\#module-sklearn.metrics). 
 
 
  
