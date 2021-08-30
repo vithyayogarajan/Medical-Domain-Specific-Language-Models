@@ -8,7 +8,7 @@ Embeddings presented in the research are pre-trained:
 - for both [CBOW](http://dblp.org/rec/bib/journals/corr/abs-1301-3781) (T300 and T600) and [Skip-gram](http://dblp.org/rec/bib/journals/corr/abs-1301-3781) (T300SG, T600SG) models
 
 
-## Training Data  
+### Training Data  
 
 The TREC precision medicine/clinical decision support track 2017 [TREC2017](https://trec.nist.gov/pubs/trec26/papers/Overview-PM.pdf) data (24G of health-related data) is used for pre-training embeddings. This includes 26.8 million published abstracts of medical literature listed on PubMed Central, 241,006 clinical trials documents, and 70,025 abstracts from recent proceedings focused on cancer therapy from AACR (American Association for Cancer Research) and ASCO (American Society of Clinical Oncology).
 
