@@ -72,6 +72,12 @@ Training time is calculated based on processing run on a 4 core Intel i7-6700K C
  
 ./fasttext print-sentence-vectors model.bin < input_text.txt > out_text.txt
 
+#### Neural Networks
+Neural network models presented are implemented using [PyTorch](https://github.com/pytorch/pytorch) and [Keras/Tensorflow](https://www.tensorflow.org). 
+
+Evaluations were done using [sklearn metrics](https://scikit-learn.org/stable/modules/classes.html\#module-sklearn.metrics). 
+
+
 
 ### Vizualising Embeddings
 
@@ -79,3 +85,13 @@ Sample code for visualising word embeddings trained by fastText using general te
 For example: for input word = 'department,admitted,heart,admitted,emergency'
 ![newplot(1)](https://user-images.githubusercontent.com/60803118/131270817-65efe5d9-f409-4733-8cea-dd6df3f851cd.png)
 
+
+
+## Transformers 
+
+Models used include:[BERT-base](https://github.com/google-research/bert),[Clinical BERT](https://github.com/EmilyAlsentzer/clinicalBERT),[BioMed-RoBERTa](https://huggingface.co/allenai/biomed_roberta_base),[PubMedBERT](https://microsoft.github.io/BLURB/models.html),[MeDAL-Electra](https://github.com/BruceWen120/medal),[Longformer](https://github.com/allenai/longformer) and [TransformerXL](https://github.com/kimiyoung/transformer-xl)
+
+Transformer implementations are based on the open-source PyTorch-transformer repositories [Huggingface](https://github.com/huggingface/transformers) and [Simple Transformers](https://simpletransformers.ai/). 
+
+
+ 
