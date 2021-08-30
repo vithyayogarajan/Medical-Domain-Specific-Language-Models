@@ -13,7 +13,7 @@ This repositary contains code used for following the PhD thesis and publications
 1. [Binary classification using GRU and pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Binary_classification/Binary_classification_GRU.ipynb)
 2. [Vizualising simillar words using pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/fastText_Embeddings/vizualise_wiki.ipynb)
 
-# Open-source frameworks 
+# Open-source Frameworks 
 
 Transformer implementations are based on the open-source PyTorch-transformer repositories [Huggingface](https://github.com/huggingface/transformers) and [Simple Transformers](https://simpletransformers.ai/). 
 
