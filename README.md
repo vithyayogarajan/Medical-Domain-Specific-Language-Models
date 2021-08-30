@@ -9,9 +9,18 @@ This repositary contains code used for following the PhD thesis and publications
 5.Yogarajan, V., Montiel, J., Smith, T., & Pfahringer, B. (2021). Concatenated BioMed-Transformers for Multi-label Classification of Medical Text. (under submission)
 6. Yogarajan, V., Montiel, J., Smith, T., & Pfahringer, B. (2021). Predicting COVID-19 Patient Shielding: A Comprehensive Study. (under submission).
 
-# Tutorials
+# Tutorials and Demos 
 1. [Binary classification using GRU and pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Binary_classification/Binary_classification_GRU.ipynb)
+2. 
 
+# Open-source frameworks 
+Models used include:[BERT-base](https://github.com/google-research/bert),[Clinical BERT](https://github.com/EmilyAlsentzer/clinicalBERT),[BioMed-RoBERTa](https://huggingface.co/allenai/biomed_roberta_base),[PubMedBERT](https://microsoft.github.io/BLURB/models.html),[MeDAL-Electra](https://github.com/BruceWen120/medal),[Longformer](https://github.com/allenai/longformer) and [TransformerXL](https://github.com/kimiyoung/transformer-xl)
 
+Transformer implementations are based on the open-source PyTorch-transformer repositories [Huggingface](https://github.com/huggingface/transformers) and [Simple Transformers](https://simpletransformers.ai/). 
 
+Neural network models presented are implemented using [PyTorch](https://github.com/pytorch/pytorch) and [Keras/Tensorflow](https://www.tensorflow.org). 
+
+Evaluations were done using [sklearn metrics](https://scikit-learn.org/stable/modules/classes.html\#module-sklearn.metrics). 
+
+Traditional classifiers such as logistic regression, random forest, and classifier chains use implementations of [the Waikato Environment for Knowledge Analysis (WEKA)](https://www.cs.waikato.ac.nz/ml/weka/) framework for binary classification and [MEKA](http://waikato.github.io/meka/) for multi-label classification.
  
