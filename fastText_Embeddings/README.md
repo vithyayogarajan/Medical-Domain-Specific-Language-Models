@@ -30,6 +30,15 @@ The clinical notes from [MIMIC-III Clinical Database](https://physionet.org/work
 
 Training time is calculated based on processing run on a 4 core Intel i7-6700K CPU @ 4.00GHz with 64GB of RAM. Parameter choices for training: character n-grams of length 5, a window of size 5, ten negative samples per positive sample, and learning rate of 0.05 is used.
 
+### Obtaining embeddings from a pre-trained model
+
+1. Word level
+./fasttext print-word-vectors model.bin < inputtext.txt > outtext.txt  
+
+2. Document level
+./fasttext print-sentence-vectors model.bin < inputtext.txt > outtext.txt
+
+
 ## Vizualising Embeddings
 
 Sample code for visualising word embeddings trained by fastText using general text ([published model](https://fasttext.cc/docs/en/english-vectors.html)) is presented. Most similar words from an example input sentence are obtained using [gensim's built in function](https://tedboy.github.io/nlps/api_gensim.html) which computes cosine similarity between the projection weight vectors of a word and the vectors of each word in the embeddings model.
