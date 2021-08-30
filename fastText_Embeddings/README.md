@@ -32,10 +32,12 @@ Training time is calculated based on processing run on a 4 core Intel i7-6700K C
 
 ### Obtaining embeddings from a pre-trained model
 
-1. Word level: 
+1. Word level
+ 
 ./fasttext print-word-vectors model.bin < input_text.txt > out_text.txt  
 
-2. Document level: 
+2. Document level
+ 
 ./fasttext print-sentence-vectors model.bin < input_text.txt > out_text.txt
 
 
