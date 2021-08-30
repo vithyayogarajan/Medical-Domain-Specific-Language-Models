@@ -7,7 +7,6 @@
 
 <p style='color:green'>Tutorial: Binary classification with GRU and pre-trained embeddings</p>    
 
-<h3 style="color:#ff0000">Danger</h3>
  
-
+<font color="red">This is some text!</font>
 
