@@ -11,7 +11,8 @@ This repositary contains code used for following the PhD thesis and publications
 
 # Tutorials and Demos 
 1. [Binary classification using GRU and pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Binary_classification/Binary_classification_GRU.ipynb)
-2. [Vizualising simillar words using pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/fastText_Embeddings/vizualise_wiki.ipynb)
+2. [Binary classification using PubMedBERT](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Binary_classification/Binary_classification_PubMedBERT.ipynb)
+3. [Vizualising simillar words using pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/fastText_Embeddings/vizualise_wiki.ipynb)
 
 # Open-source Frameworks 
 
