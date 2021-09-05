@@ -12,7 +12,7 @@ i.e., each instance can have **multiple** labels instead of **single one**.
     
 ## Classifiers
 
-**`Traditional' classifiers** such as Binary Relevance (BR), Classifier Chains (CC) and Multi-label k-nearest neighbor classifier (MLkNN) use [MEKA](http://waikato.github.io/meka/). Example scripts are provided above. 
+**'Traditional' classifiers** such as Binary Relevance (BR), Classifier Chains (CC) and Multi-label k-nearest neighbor classifier (MLkNN) use [MEKA](http://waikato.github.io/meka/). Example scripts are provided above. 
 
  **Pre-trained word embeddings based Neural Networks** 
  1. [CAML and DRCAML](https://github.com/jamesmullenbach/caml-mimic)
