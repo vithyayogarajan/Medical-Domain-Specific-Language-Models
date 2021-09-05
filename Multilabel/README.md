@@ -6,7 +6,9 @@
 **Single-label classification**: Is this a picture of a hospital bed? 
 
 **Multi-label classification**: Which of the labels are relevant to the picture? 
-  {broken leg, injury, patient, nurse, hospital, unconscious}
+ 
+ {broken leg, injury, patient, nurse, hospital, unconscious}
+
 i.e., each instance can have **multiple** labels instead of **single one**.
     
 
