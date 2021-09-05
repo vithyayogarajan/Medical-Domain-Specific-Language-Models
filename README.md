@@ -24,9 +24,11 @@ This repositary contains code used for following the PhD thesis and publications
 1. [Binary classification using GRU and pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Binary_classification/Binary_classification_GRU.ipynb)
 2. [Binary classification using PubMedBERT](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Binary_classification/Binary_classification_PubMedBERT.ipynb)
 3. [Vizualising simillar words using pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/fastText_Embeddings/vizualise_wiki.ipynb)
-4. [Multi-label classification using HAN(GRU) or HAN(LSTM) and pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/HAN.py)
-5. [Multi-label classification using Longformer](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/longformer_fungal_eICU.py)
-6. [Multi-label classification using BioMed-RoBERTa](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/Biomed-Roberto_cardiology.py)
+4. [Multi-label classification using CNNText and pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/icd9_cnntext.ipynb)
+5. [Multi-label classification using HAN(GRU) or HAN(LSTM) and pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/HAN.py)
+6. [Multi-label classification using Longformer](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/longformer_fungal_eICU.py)
+7. [Multi-label classification using BioMed-RoBERTa](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/Biomed-Roberto_cardiology.py)
+8. [CD-plot and Nemenyi test using Python](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/posthoc-nemenyi.ipynb)
 
 # Open-source Frameworks 
 
