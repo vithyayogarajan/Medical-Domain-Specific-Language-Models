@@ -32,7 +32,8 @@ Models used include:[BERT-base](https://github.com/google-research/bert),[Clinic
 | RoBERTa-base | Web crawl | robustly optimised BERT approach | 
 | | | improved training methodology |
 | BioMed-RoBERTa | Scientific papers | continuous training of RoBERTa-base |
-| :------ | --------: | 
+
+
 | TransformerXL   | Can handle documents with > 512 tokens. Models longer-term dependency |
 | | by combining recurrence and relative positional encoding. |
 | | Training Data: general text including Wiki |
