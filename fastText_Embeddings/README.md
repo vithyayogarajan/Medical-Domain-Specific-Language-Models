@@ -45,7 +45,8 @@ Training time is calculated based on processing run on a 4 core Intel i7-6700K C
 
 Sample code for visualising word embeddings trained by fastText using general text ([published model](https://fasttext.cc/docs/en/english-vectors.html)) is presented. Most similar words from an example input sentence are obtained using [gensim's built in function](https://tedboy.github.io/nlps/api_gensim.html) which computes cosine similarity between the projection weight vectors of a word and the vectors of each word in the embeddings model.
 For example: for input word = 'department,admitted,heart,admitted,emergency'
-![newplot(1)](https://user-images.githubusercontent.com/60803118/131270817-65efe5d9-f409-4733-8cea-dd6df3f851cd.png)
+<img src="https://user-images.githubusercontent.com/60803118/131270817-65efe5d9-f409-4733-8cea-dd6df3f851cd.png" alt="vizualise" width="500"/>
+
 
 
 
