@@ -29,6 +29,7 @@ This repositary contains code used for following the PhD thesis and publications
 6. [Multi-label classification using Longformer](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/longformer_fungal_eICU.py)
 7. [Multi-label classification using BioMed-RoBERTa](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/Biomed-Roberto_cardiology.py)
 8. [CD-plot and Nemenyi test using Python](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/posthoc-nemenyi.ipynb)
+9. [Concatenated PubMedBERT (Triple-PubMedBERT) for multi-label classification of Cardiology](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Concatenated-Language-Models-Multi-label/triple_pubmedbert_cardiology.py)
 
 # Open-source Frameworks 
 
