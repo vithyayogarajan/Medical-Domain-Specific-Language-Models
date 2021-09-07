@@ -1,6 +1,6 @@
 # Medical-Domain-Specific-Language-Models
 
-This repositary contains code used for following the PhD thesis and publications:
+This repository contains code used for following the PhD thesis and publications:
 
 1. Yogarajan, V (2021). Domain-specific Language Models for Multi-label Classification of Medical Text. The University of Waikato. PhD Thesis. (examination process)
 2. Yogarajan, V., Montiel J., Smith T., & Pfahringer B. (2021) Transformers for Multi-label Classification of Medical Text: An Empirical Comparison. In: Tucker A., Henriques Abreu P., Cardoso J., Pereira Rodrigues P., Riaño D. (eds) Artificial Intelligence in Medicine. AIME 2021. Lecture Notes in Computer Science, vol 12721. Springer, Cham. [link](https://doi.org/10.1007/978-3-030-77211-6_12)
@@ -21,15 +21,22 @@ This repositary contains code used for following the PhD thesis and publications
 |Fungal or bacterial | MIMIC-III | 73 | 30,814   |  eICU | 42|54,193|     
 
 # Examples
+## Binary Classification
 1. [Binary classification using GRU and pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Binary_classification/Binary_classification_GRU.ipynb)
 2. [Binary classification using PubMedBERT](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Binary_classification/Binary_classification_PubMedBERT.ipynb)
-3. [Vizualising simillar words using pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/fastText_Embeddings/vizualise_wiki.ipynb)
-4. [Multi-label classification using CNNText and pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/icd9_cnntext.ipynb)
-5. [Multi-label classification using HAN(GRU) or HAN(LSTM) and pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/HAN.py)
-6. [Multi-label classification using Longformer](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/longformer_fungal_eICU.py)
-7. [Multi-label classification using BioMed-RoBERTa](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/Biomed-Roberto_cardiology.py)
+
+## Multi-label Classification
+
+3. [Multi-label classification using CNNText and pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/icd9_cnntext.ipynb)
+4. [Multi-label classification using HAN(GRU) or HAN(LSTM) and pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/HAN.py)
+5. [Multi-label classification using Longformer](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/longformer_fungal_eICU.py)
+6. [Multi-label classification using BioMed-RoBERTa](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/Biomed-Roberto_cardiology.py)
+7. [Concatenated PubMedBERT (Triple-PubMedBERT) for multi-label classification of Cardiology](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Concatenated-Language-Models-Multi-label/triple_pubmedbert_cardiology.py)
+
+## Others
 8. [CD-plot and Nemenyi test using Python](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/posthoc-nemenyi.ipynb)
-9. [Concatenated PubMedBERT (Triple-PubMedBERT) for multi-label classification of Cardiology](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Concatenated-Language-Models-Multi-label/triple_pubmedbert_cardiology.py)
+9. [Vizualising simillar words using pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/fastText_Embeddings/vizualise_wiki.ipynb)
+
 
 # Open-source Frameworks 
 
