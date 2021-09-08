@@ -1,0 +1,10 @@
+@relation bloodtextbow
+@attribute text string
+@attribute class-attr {1,0}
+@data
+'pre-trained discharge summary for patient with #HADM_ID=12345, MIMIC-III data',0
+'pre-trained discharge summary for patient with #HADM_ID=23456, MIMIC-III data',1
+'pre-trained discharge summary for patient with #HADM_ID=23451, MIMIC-III data',0
+'pre-trained discharge summary for patient with #HADM_ID=34567, MIMIC-III data',0
+'pre-trained discharge summary for patient with #HADM_ID=45678, MIMIC-III data',1
+'pre-trained discharge summary for patient with #HADM_ID=33333, MIMIC-III data',0
