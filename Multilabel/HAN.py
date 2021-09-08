@@ -31,7 +31,7 @@ import nltk
 
 
 #reading file
-df = pd.read_csv('../data/18label_mimic_dis.csv') ### pre-processed text with 18 labels
+df = pd.read_csv('18label_mimic_dis.csv') ### pre-processed text with 18 labels
 
 note_sentences = []
 notes = []
@@ -133,7 +133,7 @@ def train_val_test_split(X, y, val_size=0.2, test_size=0.2, random_state=101):
 
 EMBEDDING_DIM = 50 
 EMBEDDING_MATRIX= []
-EMBEDDING_LOC = '../data/Emd50.txt' # pretrained 50 dimensional embeddings
+EMBEDDING_LOC = 'Emd50.txt' # pretrained 50 dimensional embeddings
 EMBEDDING_MATRIX, embedding_dict = embedding_matrix(EMBEDDING_LOC,
                                                                   dictionary, EMBEDDING_DIM, verbose = True, sigma=True)
 labels = ['blood', 'circulatory', 'congenital', 'digestive', 'endocrine',
