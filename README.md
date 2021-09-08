@@ -38,6 +38,25 @@ This repository contains code used for following the PhD thesis and publications
 9. [Vizualising simillar words using pre-trained embeddings](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/fastText_Embeddings/vizualise_wiki.ipynb)
 
 
+# FastText pre-trained Embeddings - Downloads
+
+Compressed files with both model bin and token vectors: 
+
+- CBOW Models [1,3,4]
+   
+  [Emb50]()
+  
+  [T300](https://drive.google.com/file/d/1VY8VSRlXiPgOfw12PfQS4Xn-26fYJIgX/view?usp=sharing) (download zip file size: 16GB)
+
+
+- Skip-gram Models [1,4]
+
+  [T300SG]() (download zip file size: 17GB)
+
+  [T600SG]() (download zip file size: 34GB)
+
+
+
 # Open-source Frameworks 
 
 Transformer implementations are based on the open-source PyTorch-transformer repositories [Huggingface](https://github.com/huggingface/transformers) and [Simple Transformers](https://simpletransformers.ai/). 
