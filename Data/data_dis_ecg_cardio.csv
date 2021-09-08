@@ -1,0 +1,11 @@
+HADM_ID,text2,text1,ICD9_25000,ICD9_25002,ICD9_2689,ICD9_2720,ICD9_2721,ICD9_2724,ICD9_4010,ICD9_4011,ICD9_4019,ICD9_40290,ICD9_40291,ICD9_41011,ICD9_41091,ICD9_412,ICD9_4139,ICD9_41400,ICD9_41401,ICD9_4149,ICD9_42731,ICD9_4280,ICD9_4292,ICD9_43310,ICD9_43311,ICD9_43491,ICD9_4370,ICD9_4371,ICD9_79029,ICD9_V173,ICD9_V1749,ICD9_V5869
+110003,Pre-processed ecg text from MIMIC-III,Pre-processed MIMIC-III discharge summary,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120003,Pre-processed ecg text from MIMIC-III,Pre-processed MIMIC-III discharge summary,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+130005,Pre-processed ecg text from MIMIC-III,Pre-processed MIMIC-III discharge summary,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+140007,Pre-processed ecg text from MIMIC-III,Pre-processed MIMIC-III discharge summary,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+150009,Pre-processed ecg text from MIMIC-III,Pre-processed MIMIC-III discharge summary,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+160011,Pre-processed ecg text from MIMIC-III,Pre-processed MIMIC-III discharge summary,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+170013,Pre-processed ecg text from MIMIC-III,Pre-processed MIMIC-III discharge summary,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+180015,Pre-processed ecg text from MIMIC-III,Pre-processed MIMIC-III discharge summary,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+190017,Pre-processed ecg text from MIMIC-III,Pre-processed MIMIC-III discharge summary,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+200019,Pre-processed ecg text from MIMIC-III,Pre-processed MIMIC-III discharge summary,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
