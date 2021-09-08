@@ -44,7 +44,7 @@ Compressed files with both model bin and token vectors:
 
 - CBOW Models [1,3,4]
    
-  [MIMIC50 (Emd50)]()
+  [MIMIC50)](https://drive.google.com/file/d/1UbTO0PFwr4YeQYDLJBnGjfCvK9dAO4kB/view?usp=sharing) (download zip file size: 1GB)
   
   [T300](https://drive.google.com/file/d/1VY8VSRlXiPgOfw12PfQS4Xn-26fYJIgX/view?usp=sharing) (download zip file size: 16GB)
 
