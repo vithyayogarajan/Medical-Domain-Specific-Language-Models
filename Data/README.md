@@ -5,11 +5,13 @@
 Sample data is provided here to provide an understanding of the structure of the data used for experiments.
 
  - For binary classification: .csv files for MIMIC-III include:
+ 
 |HADM_ID|Text|Labels|
 |:-----|:----|----:|
 |145834|pre-trained discharge summary for patient with #HADM_ID = 145834, MIMIC-III data|1|
 
  - For multi-label classification with 'L' number of labels: .csv files for MIMIC-III include:
+ 
 |HADM_ID|Text|Label_1|Label_2|...|Label_L|
 |:-----|:----|----:|----:|----:|----:|
 |145834|pre-trained discharge summary for patient with #HADM_ID = 145834, MIMIC-III data|0 |1 |...|0|
