@@ -44,14 +44,14 @@ Compressed files with both model bin and token vectors:
 
 - CBOW Models [1,3,4]
    
-  [Emb50]()
+  [MIMIC50 (Emd50)]()
   
   [T300](https://drive.google.com/file/d/1VY8VSRlXiPgOfw12PfQS4Xn-26fYJIgX/view?usp=sharing) (download zip file size: 16GB)
 
 
 - Skip-gram Models [1,4]
 
-  [T300SG]() (download zip file size: 17GB)
+  [T300SG](https://drive.google.com/file/d/1wxVla-7pqfxUqFiOCQgb6zE8kmVsY7l6/view?usp=sharing) (download zip file size: 16GB)
 
   [T600SG]() (download zip file size: 34GB)
 
