@@ -20,6 +20,7 @@ Sample data is provided here to provide an understanding of the structure of the
 
 - eICU data uses 'pid' (patient i.d.) as the key for database, instead of 'HADM_ID' (Hospital admission i.d.) in MIMIC-III.
 
+- [Emb50.txt](https://drive.google.com/file/d/1rcApyx9uh9_anUpESd9uQYF8sJ7SDivH/view?usp=sharing) is a sample pre-trained embeddings with 50 dimension (CBOW model).
 
 
 
