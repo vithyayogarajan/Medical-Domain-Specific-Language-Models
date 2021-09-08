@@ -42,18 +42,18 @@ This repository contains code used for following the PhD thesis and publications
 
 Compressed files with both model bin and token vectors: 
 
-- CBOW Models [1,3,4]
+- CBOW Models 
    
   [MIMIC50](https://drive.google.com/file/d/1UbTO0PFwr4YeQYDLJBnGjfCvK9dAO4kB/view?usp=sharing) (download zip file size: 1GB)
   
   [T300](https://drive.google.com/file/d/1VY8VSRlXiPgOfw12PfQS4Xn-26fYJIgX/view?usp=sharing) (download zip file size: 16GB)
 
 
-- Skip-gram Models [1,4]
+- Skip-gram Models 
 
   [T300SG](https://drive.google.com/file/d/1wxVla-7pqfxUqFiOCQgb6zE8kmVsY7l6/view?usp=sharing) (download zip file size: 16GB)
 
-  [T600SG]() (download zip file size: 34GB)
+  [T600SG](https://drive.google.com/file/d/1OBzIiuSjPSsHYVX9Z5n3GFG_ID9sE-uL/view?usp=sharing) (download zip file size: 34GB)
 
 
 
