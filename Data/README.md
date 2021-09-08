@@ -10,7 +10,7 @@ For binary classification: .csv files for MIMIC-III include:
 |145834|pre-trained discharge summary for patient with #HADM_ID = 145834, MIMIC-III data|1|
 
 For multi-label classification with 'L' number of labels: .csv files for MIMIC-III include:
-|HADM_ID|Text|Label 1|Label 2|...|Label L|
+|HADM_ID|Text|Label_1|Label_2|...|Label_L|
 |:-----|:----|----:|----:|----:|----:|
 |145834|pre-trained discharge summary for patient with #HADM_ID = 145834, MIMIC-III data|0 |1 |...|0|
 
