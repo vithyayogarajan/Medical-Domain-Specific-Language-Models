@@ -194,7 +194,7 @@ def hierarhical_att_model(MAX_SENTS, MAX_SENT_LENGTH, embedding_matrix,
     h_it_sentence_vector = Bidirectional(GRU(gru_dim, return_sequences=True))(embedded_sequences)
     #h_it_sentence_vector =  Bidirectional(LSTM(gru_dim, return_sequences=True))(embedded_sequences)
 
-    words_attention_vector = attention_util.attention_layer(h_it_sentence_vector,MAX_SENT_LENGTH,gru_dim) 
+    words_attention_vector = attention_layer(h_it_sentence_vector,MAX_SENT_LENGTH,gru_dim) 
 
     sentEncoder = Model(sentence_input, words_attention_vector)
     
@@ -208,7 +208,7 @@ def hierarhical_att_model(MAX_SENTS, MAX_SENT_LENGTH, embedding_matrix,
     #document_vector = Bidirectional(LSTM(gru_dim, return_sequences=True))(note_encoder)
     
 	#attention layer
-    sentences_attention_vector = attention_util.attention_layer(document_vector,MAX_SENTS,gru_dim) 
+    sentences_attention_vector = attention_layer(document_vector,MAX_SENTS,gru_dim) 
     
 	# output layer
     z = Dropout(training_dropout)(sentences_attention_vector)
